@@ -1,6 +1,6 @@
 # Pulumi Automation API Workshop
 
-This workshop will guide you through the process of building an small web application that allows you to deploy to Kubernetes using Pulumi's Automation API.
+This workshop will guide you through the process of building a small web application that allows you to deploy to Kubernetes using Pulumi's Automation API.
 
 You'll first provision an application to a Kubernetes cluster using Pulumi's [Component Resource](https://www.pulumi.com/docs/intro/concepts/resources/#components) mechanism.
 
